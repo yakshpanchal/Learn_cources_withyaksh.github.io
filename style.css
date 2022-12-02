@@ -1,0 +1,72 @@
+body{
+    
+    background-image: url(./img/background_5.jpg);
+    background-size:cover;
+    background-repeat:repeat;
+    width:99%;
+    height:100%;
+    
+}
+
+.font{
+    width: 1px;
+}
+#home{
+    font-size:large;
+    color:white;
+    text-decoration:solid;
+}
+#link{
+    font-size:large;
+    color:white;
+    text-decoration: solid;
+}
+#account_menu{
+    font-size:large;
+    color:white;
+    text-decoration: solid;
+}
+.dropdown-item{
+    
+    color:black;
+    font-size: larger
+    /* text-decoration: solid; */
+}
+.div{
+    margin-top: 100px;
+}
+.brand{
+    text-align: center;
+    color: white;
+}
+.footer_1{
+    height: 200px;
+    
+    text-align: center;
+    font-size:small;
+    color: white;
+    background-color: black;
+
+}
+.footer_2{
+    height:100px;
+}
+.footer_3{
+    height: 100px;
+}
+.footer_4{
+    height: 30px;
+}
+.content_1{
+    background-color:white;
+    width: auto;
+}
+.content{
+    color: white;
+}
+.cource_img{
+    height: 200px;
+}
+/* .icon{
+    
+} */
